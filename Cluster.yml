@@ -13,6 +13,6 @@ nodeGroups:
     desiredCapacity: 2
     instanceType: t2.small
     ssh:
-      publicKeyName: abhishek
+      publicKeyName: bakshod_abhishek
     ssh:
-      publicKeyName: abhishek
+      publicKeyName: bakchod_abhishek
